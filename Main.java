@@ -8,5 +8,13 @@ System.out.println("Hello java program 2");
     System.out.println("Hello java program 4");
 
   System.out.println("Hello java program 5-copy");
+System.out.println("Hello java program-Merge");
+System.out.println("Hello java program 1-Merge");
+System.out.println("Hello java program 2-Merge");
+  System.out.println("Hello java program 3-Merge");
+    System.out.println("Hello java program 4-Merge");
+
+  System.out.println("Hello java program 5-copy-Merge");
+
 
 }}
