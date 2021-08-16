@@ -21,5 +21,10 @@ System.out.println("Hello java program 2-Merge");
 System.out.println("Hello java program 1");
 System.out.println("Hello java program 2");
   System.out.println("Hello java program 3"); 
+System.out.println("Hello java program new1");
+System.out.println("Hello java program new2");
+System.out.println("Hello java program new jenkingjs");
+System.out.println("NEW PROGRAM JENKINS");
+System.out.println("Hello java program new3");
 
 }}
