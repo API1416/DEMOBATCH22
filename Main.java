@@ -26,5 +26,6 @@ System.out.println("Hello java program new2");
 System.out.println("Hello java program new jenkingjs");
 System.out.println("NEW PROGRAM JENKINS");
 System.out.println("Hello java program new3");
+System.out.println("abc");
 
 }}
